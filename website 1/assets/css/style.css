@@ -1,0 +1,98 @@
+body{
+    background: rgb(44, 44, 44);
+    overflow-x: hidden;
+}
+
+.color-change{
+    background: rgb(44, 44, 44);
+    margin: 1em 2em;
+
+}
+
+.nav_text{
+    color: white;
+    font-weight: bolder;
+    font-size: 3vw;
+
+}
+
+.nav_textone{
+    color: white;
+    font-weight: bold;
+    font-size: 1.3vw;
+
+}
+
+.nav_textone:hover{
+    color: green;
+}
+ul{
+    margin-left: 15em;
+}
+.btnna{
+    color: white;
+}
+.btn{
+    margin-left: .5em;
+}
+.navbar-toggler-icon{
+   background:white;
+}
+
+h2{
+    font-weight: bolder;
+    color: white;
+    font-size: 4vw;
+    margin: 3em 1em;
+}
+h4 , h6{
+    font-size: 2vw;
+
+}
+h1{
+    font-size: 3vw;
+}
+.listiscool{
+    font-size: 1.7vw;
+
+
+}
+.text{
+    transform: translateY(-250px);
+    margin-left: 10em;
+}
+.btn{
+    margin-left: 5.5em;
+
+
+}
+.first{margin-right: 10em;}
+
+
+.onebtn{
+    margin-right: 6em;
+}
+.onefirst{
+    margin-right: 15em;
+}
+.calltoaction{
+    margin-top: 20em;
+    padding: 200px;
+    background: rgb(175, 175, 175);
+}
+.book_a_r{
+    transform:translateX(450px)
+}
+footer{
+    padding: 200px;
+}
+#footer{
+    transform: translateX(100px);
+}
+.words{
+    transform:translateX(-150px);
+}
+.r_bg{
+    background: #333;
+    padding: 30px;
+}
